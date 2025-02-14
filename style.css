@@ -1,0 +1,40 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2fr 3fr 3fr 7fr 1fr;
+}
+
+.logo {
+    grid-columns:
+    grid-rows:
+}
+
+.header {
+    grid-columns:
+    grid-rows:
+}
+
+.intro {
+    grid-columns:
+    grid-rows:
+}
+
+.box1 {
+    grid-columns:
+    grid-rows:
+}
+
+.box2 {
+    grid-columns:
+    grid-rows:
+}
+
+.box3 {
+    grid-columns:
+    grid-rows:
+}
+
+.footer {
+    grid-columns:
+    grid-rows:
+}
