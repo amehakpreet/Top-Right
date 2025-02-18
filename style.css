@@ -5,36 +5,36 @@
 }
 
 .logo {
-    grid-columns:
-    grid-rows:
+    grid-column: 1/4;
+    grid-row: 1/2;
 }
 
 .header {
-    grid-columns:
-    grid-rows:
+    grid-column: 1/4;
+    grid-row: 2/3;
 }
 
 .intro {
-    grid-columns:
-    grid-rows:
+    grid-column: 1/4;
+    grid-row: 3/4;
 }
 
 .box1 {
-    grid-columns:
-    grid-rows:
+    grid-column: 1/2;
+    grid-row: 4/5;
 }
 
 .box2 {
-    grid-columns:
-    grid-rows:
+    grid-column: 2/3;
+    grid-row: 4/5;
 }
 
 .box3 {
-    grid-columns:
-    grid-rows:
+    grid-column: 3/4;
+    grid-row: 4/5;
 }
 
 .footer {
-    grid-columns:
-    grid-rows:
+    grid-column: 1/4;
+    grid-row: 5/6;
 }
